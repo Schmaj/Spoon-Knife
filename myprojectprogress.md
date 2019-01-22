@@ -1,0 +1,1 @@
+I am interested in joining an RCOS project by the name of OpenCircuits.  I think I would organize it using a blessed repository structure in order to better manage changes. It would limit the possibility of changes breaking the project by accident.  It would also keep the project organized and compartmentalized.
